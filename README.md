@@ -5,8 +5,7 @@
 
 - 📫 How to reach me **Hazy#4861 << Discord**
 
-<h3 align="center">Connect with me:</h3>
-<p align="left">
+- 🔭 I'm currently working on **Wall Street Dwellers - https://discord.gg/eXm8e6aCUh**
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
