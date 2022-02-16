@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Hazy#4861 << Discord**
 
-- 🔭 I'm currently working on **Wall Street Dwellers - https://discord.gg/eXm8e6aCUh**
+- 🔭 I'm currently working on **Venom Multi Tool**
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
