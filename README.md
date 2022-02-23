@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C# & API intergration within python**
 
-- 📫 How to reach me **Hazy#4861 << Discord**
+- 📫 How to reach me **Escobar#7321 << Discord**
 
 - 🔭 I'm currently working on **Venom Multi Tool**
 </p>
