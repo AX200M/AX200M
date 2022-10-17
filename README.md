@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hazy</h1>
+<h1 align="center">Hi 👋, I'm Nebula</h1>
 <h3 align="center">A cool guy who is learning to code in multiple languages</h3>
 
 - 🌱 I’m currently learning **C# & API intergration within python**
 
-- 📫 How to reach me **Escobar#7321 << Discord**
-
-- 🔭 I'm currently working on **Venom Multi Tool**
+- 🔭 I'm currently working on **Project Games**
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
