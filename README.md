@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nebula</h1>
+<h1 align="center">Hi 👋, I'm AX200M</h1>
 <h3 align="center">A cool guy who is learning to code in multiple languages</h3>
 
-- 🌱 I’m currently learning **C# & API intergration within python**
+- 🌱 I’m currently learning **C# & WPF**
 
-- 🔭 I'm currently working on **Project Games**
+- 🔭 I'm currently working on **Project Black Pearl**
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
