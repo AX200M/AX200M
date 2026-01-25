@@ -1,7 +1,7 @@
 
 # 💫About Me :
-Hey there, 
-My name is Evan, I am a student studying Computer Games programming and Software engineering. In my spare time I create automotive renders using Unreal Engine, Create UI / UX concepts and Code ofc. 
+Hello, 
+I am a student studying Computer Games programming and Software engineering. In my spare time I create automotive renders using Unreal Engine, Create UI / UX concepts and Code. 
 
 [![](https://visitcount.itsvg.in/api?id=AX200M&icon=2&color=6)](https://visitcount.itsvg.in)
 
