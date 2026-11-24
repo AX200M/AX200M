@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/54910564?v=4" width="96" alt="AX200M" />
+  <img src="https://images.weserv.nl/?url=github.com/AX200M.png&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" width="96" height="96" alt="AX200M" />
 </p>
 
 <h1 align="center">AX200M</h1>
 
 <p align="center">
-  United Kingdom
+  <img src="https://flagcdn.com/w40/gb.png" width="24" height="12" alt="United Kingdom" />
   <br />
   <sub>On GitHub since 2019</sub>
 </p>
@@ -23,8 +23,6 @@
     <a href="https://instagram.com/ax200m.renders">instagram.com/ax200m.renders</a>
   </sub>
 </p>
-
-Based in the United Kingdom. Public repositories are below, along with the languages and tools I use.
 
 ## Stack
 
@@ -45,56 +43,99 @@ Based in the United Kingdom. Public repositories are below, along with the langu
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
 </p>
 
-**Engines and systems**
+**AI**
+
+<p>
+  <img alt="OpenAI" src="https://custom-icon-badges.demolab.com/badge/OpenAI-412991?style=flat&amp;logo=openai&amp;logoColor=white" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-191919?style=flat&logo=claude&logoColor=white" />
+  <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-24292f?style=flat&logo=githubcopilot&logoColor=white" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" />
+</p>
+
+**Operating systems**
 
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" />
+  <img alt="Windows" src="https://skillicons.dev/icons?i=windows" width="28" height="28" />
+</p>
+
+**Engines**
+
+<p>
   <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-24292f?style=flat&logo=unrealengine&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/Unity-24292f?style=flat&logo=unity&logoColor=white" />
 </p>
 
 ## Projects
 
-- **[OpenGL-Model-Viewer-Editor](https://github.com/AX200M/OpenGL-Model-Viewer-Editor)** · C++  
-  OpenGL program for viewing meshes and 3D models, with lighting, textures, an ImGui interface, and support for several model formats. University assignment.
-
-- **[dynamic-gpu-passthrough](https://github.com/AX200M/dynamic-gpu-passthrough)** · Shell  
-  Script that automates GPU passthrough for Linux.
-
-- **[omarchy-doom-theme](https://github.com/AX200M/omarchy-doom-theme)** · CSS  
-  Material Omarchy theme based on an MF Doom wallpaper from the [dharmx/walls](https://github.com/dharmx/walls) repository.
-
-- **[EC-Givelink-Submission](https://github.com/AX200M/EC-Givelink-Submission)** · TypeScript  
-  Next.js, TypeScript, and Tailwind site for a Givelink interview task: list active products returned by an API.
-
-- **[Cinewave-AIO-Avalonia](https://github.com/AX200M/Cinewave-AIO-Avalonia)** · C#  
-  Cross-platform Avalonia proof of concept for a media library and a games library. Still in development.
-
-- **[cinewave-site](https://github.com/AX200M/cinewave-site)** · JavaScript  
-  Next.js landing page, in progress, for a media-server setup (Plex, Jellyfin, Sonarr, Radarr, and others), with API checks for outages and delay.
-
-- **[NetworkAppRouter](https://github.com/AX200M/NetworkAppRouter)** · C#  
-  Routes selected applications through a specified network adapter. Work in progress.
-
-- **[Dreamy-Launcher](https://github.com/AX200M/Dreamy-Launcher)** · C#  
-  A hub for multiple game launchers. Early proof of concept.
-
-<details>
-<summary>More public repositories</summary>
-
-- **[SDL-bespoke-platform-development](https://github.com/AX200M/SDL-bespoke-platform-development)** · C++  
-  A basic SDL template.
-
-- **[purple-rain.github.io](https://github.com/AX200M/purple-rain.github.io)** · CSS  
-  A Discord theme.
-
-- **[CPlusPlusAlgorithms](https://github.com/AX200M/CPlusPlusAlgorithms)** · C++  
-  Algorithms written in C++.
-
-- **[CPlusPlusPointers](https://github.com/AX200M/CPlusPlusPointers)** · C++  
-  A repository about C++ pointers.
-
-</details>
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/gookie-dev/g6shim"><strong>g6shim</strong></a>
+      · contribution
+      <br /><br />
+      Runs console games on Windows by implementing replacement system DLLs.
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/AX200M/nextjs-starter">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AX200M&amp;repo=nextjs-starter&amp;hide_border=true&amp;description_lines_count=2&amp;bg_color=0d1117&amp;title_color=f0f6fc&amp;text_color=c9d1d9&amp;icon_color=58a6ff" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AX200M&amp;repo=nextjs-starter&amp;hide_border=true&amp;description_lines_count=2&amp;bg_color=ffffff&amp;title_color=0f172a&amp;text_color=334155&amp;icon_color=1f6feb" />
+          <img alt="nextjs-starter, a fork of once-ui-system/nextjs-starter" src="https://github-readme-stats.vercel.app/api/pin/?username=AX200M&amp;repo=nextjs-starter&amp;hide_border=true&amp;description_lines_count=2&amp;bg_color=ffffff&amp;title_color=0f172a&amp;text_color=334155&amp;icon_color=1f6feb" />
+        </picture>
+      </a>
+      <br />
+      <sub>Fork of <a href="https://github.com/once-ui-system/nextjs-starter">once-ui-system/nextjs-starter</a>, Once UI's Next.js starter. Contributed an image comparison slider, merged upstream.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/AX200M/omarchy-doom-theme">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AX200M&amp;repo=omarchy-doom-theme&amp;hide_border=true&amp;description_lines_count=2&amp;bg_color=0d1117&amp;title_color=f0f6fc&amp;text_color=c9d1d9&amp;icon_color=58a6ff" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AX200M&amp;repo=omarchy-doom-theme&amp;hide_border=true&amp;description_lines_count=2&amp;bg_color=ffffff&amp;title_color=0f172a&amp;text_color=334155&amp;icon_color=1f6feb" />
+          <img alt="omarchy-doom-theme: material Omarchy theme" src="https://github-readme-stats.vercel.app/api/pin/?username=AX200M&amp;repo=omarchy-doom-theme&amp;hide_border=true&amp;description_lines_count=2&amp;bg_color=ffffff&amp;title_color=0f172a&amp;text_color=334155&amp;icon_color=1f6feb" />
+        </picture>
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/AX200M/dynamic-gpu-passthrough">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AX200M&amp;repo=dynamic-gpu-passthrough&amp;hide_border=true&amp;description_lines_count=2&amp;bg_color=0d1117&amp;title_color=f0f6fc&amp;text_color=c9d1d9&amp;icon_color=58a6ff" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AX200M&amp;repo=dynamic-gpu-passthrough&amp;hide_border=true&amp;description_lines_count=2&amp;bg_color=ffffff&amp;title_color=0f172a&amp;text_color=334155&amp;icon_color=1f6feb" />
+          <img alt="dynamic-gpu-passthrough: Linux GPU passthrough script" src="https://github-readme-stats.vercel.app/api/pin/?username=AX200M&amp;repo=dynamic-gpu-passthrough&amp;hide_border=true&amp;description_lines_count=2&amp;bg_color=ffffff&amp;title_color=0f172a&amp;text_color=334155&amp;icon_color=1f6feb" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/AX200M/OpenGL-Model-Viewer-Editor">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AX200M&amp;repo=OpenGL-Model-Viewer-Editor&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=f0f6fc&amp;text_color=c9d1d9&amp;icon_color=58a6ff" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AX200M&amp;repo=OpenGL-Model-Viewer-Editor&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=0f172a&amp;text_color=334155&amp;icon_color=1f6feb" />
+          <img alt="OpenGL-Model-Viewer-Editor: OpenGL mesh viewer, university assignment" src="https://github-readme-stats.vercel.app/api/pin/?username=AX200M&amp;repo=OpenGL-Model-Viewer-Editor&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=0f172a&amp;text_color=334155&amp;icon_color=1f6feb" />
+        </picture>
+      </a>
+      <br />
+      <sub>OpenGL program for viewing meshes and 3D models, with lighting, textures, an ImGui interface, and support for several model formats. University assignment.</sub>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/AX200M/Physics-Framework">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AX200M&amp;repo=Physics-Framework&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=f0f6fc&amp;text_color=c9d1d9&amp;icon_color=58a6ff" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AX200M&amp;repo=Physics-Framework&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=0f172a&amp;text_color=334155&amp;icon_color=1f6feb" />
+          <img alt="Physics-Framework: DirectX 11 physics framework" src="https://github-readme-stats.vercel.app/api/pin/?username=AX200M&amp;repo=Physics-Framework&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=0f172a&amp;text_color=334155&amp;icon_color=1f6feb" />
+        </picture>
+      </a>
+      <br />
+      <sub>DirectX 11 physics framework with rigid bodies, particles, and colliders.</sub>
+    </td>
+  </tr>
+</table>
 
 ## Activity
 
