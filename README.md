@@ -10,20 +10,6 @@
   <sub>On GitHub since 2019</sub>
 </p>
 
-<p align="center">
-  <a href="https://behance.net/evangelcolombu"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769ff?style=flat&logo=behance&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://instagram.com/ax200m.renders"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <sub>
-    <a href="https://behance.net/evangelcolombu">behance.net/evangelcolombu</a>
-    &nbsp;·&nbsp;
-    <a href="https://instagram.com/ax200m.renders">instagram.com/ax200m.renders</a>
-  </sub>
-</p>
-
 ## Stack
 
 **Languages**
